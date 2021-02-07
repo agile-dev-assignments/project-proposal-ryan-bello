@@ -10,4 +10,5 @@ As social media learns more everyday about how to engage us for as long as possi
 
 ## For whom?
 
-Though anyone could this app, I feel like a good target audience would be students. Whereas those in the workforce typically have a boss or coworkers who will hold them accountable for their work, 
+Though anyone could this app, I feel like a good target audience would be students. Whereas those in the workforce typically have a boss or coworkers who will hold them accountable for their work, students don't necessarily face the same environment - Their peers are often unaware or don't care about each other's work, and students can't be fired for underworking.
+Honestly, I'm not sure about this. I feel like this could target anyone.
