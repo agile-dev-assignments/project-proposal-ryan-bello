@@ -1,4 +1,4 @@
-# Title: To-do Together
+# Project Name: To-do Together
 
 ## What and Why?
 
