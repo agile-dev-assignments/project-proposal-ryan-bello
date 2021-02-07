@@ -1,4 +1,4 @@
-# Project Proposal: To-do Together
+# Title: To-do Together
 
 ## What and Why?
 
@@ -17,3 +17,7 @@ The main site allows users to create a todo list for their day, and check off ta
 If things aren't working out with a user's partner (for instance, they aren't compatible with their partner, or their partner rarely logs in), they can remove their current partner and request a new one. Again, they will be presented with the original two options for finding a partner. This removal will block the other user, so that the two will not be matched again.
 
 If you click an invitation link, after logging in/signing up you will be prompted to accept or decline the partner request. If you accept but already are on the partner waiting list, you will be removed, and if you have already sent out an invite, it will be deactivated. 
+
+## Scope
+
+I believe this project to be of reasonable scope for a semester long project. It encompasses all of what we'll be learning through the course (UX, front-end, back-end, a simple database for storing users and their goals), but it doesn't require an incredible amount of depth or detail for any of these aspects. 
