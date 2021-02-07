@@ -1,8 +1,4 @@
-# Project Proposal
-
-## Project Title
-
-### To-do Together
+# Project Proposal: To-do Together
 
 ## What and Why?
 
