@@ -39,6 +39,8 @@ I believe this project to be of reasonable scope for a semester long project. It
 
 ## Collaborators
 
-### List of people who collaborated on this proposal
+### List of team members who collaborated on this proposal
 
 Ryan Bello
+
+Maria Hatzioanidis
