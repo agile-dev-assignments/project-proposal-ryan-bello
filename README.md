@@ -10,7 +10,7 @@ This application is for anyone who wants to increase their productivity in some 
 
 ## How?
 
-Users will have to log in or sign up from the landing page. After that, they are presented with two options for obtaining an accountability partner: "Invite a friend", or "Search for a partner". If they choose Invite a friend, they enter an email to whom a invitation link will be sent. If they choose search for a partner, and an available partner is found immediately, they will be matched. Alternatively, they will be put on a list of those searching for partners. After this, they will proceed onto the main site.
+Users will have to log in or sign up from the landing page. After that, they are presented with two options for obtaining an accountability partner: "Invite a friend", or "Search for a partner". If they choose "Invite a friend", they enter an email to whom a invitation link will be sent. If they choose "Search for a partner", and an available partner is found immediately, they will be matched. If not, they will be put on a list of those searching for partners. After this, they will proceed onto the main site.
 
 The main site allows users to create a todo list for their day, and check off tasks as they are completed. Each day a user can enter up to 3 main goals (those most important) and an unlimited amount of minor goals. Once you are matched with a partner, you can also view their goals. On logging in for the first time in a day, you will be presented with your partner's checklist for the day prior, along with a prompt to message your partner, perhaps commending them for what they accomplished, or giving them constructive criticism on how they can do better. 
 
