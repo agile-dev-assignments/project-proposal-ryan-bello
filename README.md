@@ -6,5 +6,12 @@ As social media learns more everyday about how to engage us for as long as possi
 
 ## For whom?
 
-Though anyone could this app, I feel like a good target audience would be students. Whereas those in the workforce typically have a boss or coworkers who will hold them accountable for their work, students don't necessarily face the same environment - Their peers are often unaware or don't care about each other's work, and students can't be fired for underworking.
-Honestly, I'm not sure about this. I feel like this could target anyone.
+This application is for anyone who wants to increase their productivity in some way, whether it be that they want to pick up a new hobby, perform better at work/school, or branch out socially. Ideally, a satisfied user would be one who began to achieve their goals as a reuslt of using our application.
+
+## How?
+
+Users will have to log in or sign up from the landing page. After that, they are presented with two options for obtaining an accountability partner: Invite a friend, or Search for a partner. If they choose Invite a friend, they enter an email to whom a request will be sent. If they choose search for a partner, and an available partner is found immediately, they will be matched. Alternatively, they will be put on a list of thhose searching for partners. After this, they will proceed onto the main site.
+
+The main site allows users to create a todo list for their day, and check off tasks as they are completed. Each day a user can enter up to 3 main goals (those most important) and an unlimited amount of minor goals. Once you obtain a partner, you can also view their goals. On logging in for the first time in a day, you will be presented with your partner's checklist for the day prior, along with a prompt to message your partner, perhaps commending them for what they accomplished, or giving them constructive criticism on how they can do better. 
+
+If things aren't working out with a user's partner (for instance, they aren't compatible with their partner, or their partner rarely logs in), they can remove their current partner and request a new one. Again, they will be presented with the original two options for finding a partner. This removal will block the other user, so that the two will not be matched again.
