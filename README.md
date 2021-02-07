@@ -16,7 +16,7 @@ Users will have to log in or sign up from the landing page. After that, they are
 
 ### Main Site
 
-The main site allows users to create a todo list for their day, and check off tasks as they are completed. Each day a user can enter up to 3 main goals (those most important) and an unlimited amount of minor goals. Once you are matched with a partner, you can also view their goals. On logging in for the first time in a day, you will be presented with your partner's checklist for the day prior, along with a prompt to message your partner, perhaps commending them for what they accomplished, or giving them constructive criticism on how they can do better. 
+The main site allows users to create a todo list for their day, and check off tasks as they are completed. Each day a user can enter up to 3 main goals (those most important) and an unlimited amount of minor goals. Once you are matched with a partner, you can also view their goals. On logging in for the first time in a day, you will be presented with your partner's checklist for the day prior, along with a prompt to message your partner, perhaps commending them for what they accomplished, or giving them constructive criticism on how they can do better. Users will also always be able to access a chatbox with their partner.
 
 ### Partner Matchmaking (May be cut due to scope)
 
@@ -26,7 +26,7 @@ This feature may be cut if it proves to be too time consuming and not plausible 
 
 ### Invitation Links
 
-If you click an invitation link, after logging in/signing up you will be prompted to accept or decline the partner request. If you accept but already are on the partner waiting list, you will be removed, and if you yourself have sent out an invite, it will be deactivated. 
+If a user clicks an invitation link, after logging in/signing up, they will be prompted to accept or decline the partner request. If they accept, but already are on the partner matchmaking list, they will be removed, and if they themselves have sent out an invite, it will be deactivated. 
 
 ### Requesting a new Partner
 
