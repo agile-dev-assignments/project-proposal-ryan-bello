@@ -21,3 +21,10 @@ If you click an invitation link, after logging in/signing up you will be prompte
 ## Scope
 
 I believe this project to be of reasonable scope for a semester long project. It encompasses all of what we'll be learning through the course (UX, front-end, back-end, a simple database for storing users and their goals), but it doesn't require an exceptional amount of depth or detail for any of these aspects. If it did prove to be too simple, we could always develop additional features, such as having multiple partners/groups, or deciding how often you'd like to check in with your partner.
+
+## Collaborators
+
+### List of people who collaborated on this proposal
+
+Ryan Bello
+Maria Hatzioanidis
